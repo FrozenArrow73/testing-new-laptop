@@ -1,0 +1,8 @@
+body {
+    background-color: aqua;
+}
+button {
+    background-color: blue;
+    border-color: black;
+    padding: 40px
+}
